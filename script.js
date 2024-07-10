@@ -1,0 +1,1 @@
+fetch('http://localhost:5000/').then(response => response.json()).then(console.log);
